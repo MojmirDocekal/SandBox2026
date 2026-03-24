@@ -1,0 +1,13 @@
+Brabcová, Dita          1    černá    hnědá          
+Drnajová, Alexandra     2    modrá    hnědá
+Havlíček, Marek         3   zelená    hnědá 
+Lančíková, Lucie        4  červená    hnědá 
+Mikuš, Lukáš            5     bílá    hnědá
+Opatová, Aneta          6    žlutá    hnědá
+Otrubová, Leona         7    černá     šedá
+Paloušek, Nathaniel     8    modrá     šedá
+Rudenka, Linda          9   zelená     šedá
+Soboslai, Denis         10 červená     šedá
+Vašková, Valentina      11    bílá     šedá
+Znášiková, Lucia        12   žlutá     šedá
+
