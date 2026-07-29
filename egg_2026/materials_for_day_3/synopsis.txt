@@ -1,0 +1,29 @@
+1. example of an actual experiment:
+
+    a. examples of the workflow
+
+    - the last experiment with Olav (abstract + items + PCIBEX): 
+
+    b. abstract: research question, hypotheses, and predictions
+
+    c. experimental items and fillers
+
+    d. testing link to the experiment
+
+    e. results: graphs and try to connect them to the correlation plots for linear regression
+
+    f. some L-Rex example (maybe Chumchalová: page 3 in L-Rex)
+
+
+2. fork of the R for data science repo:
+
+https://github.com/MojmirDocekal/r4ds.git
+
+- the forked files are in the github repo
+
+- the links (links.txt):
+
+    a. the PCIBEX link
+
+    b. the support forum link (Zulip)
+
