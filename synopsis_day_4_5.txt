@@ -1,0 +1,10 @@
+1. Day 4:
+
+    - the support forum: https://egg-exp-sem-2026.zulipchat.com/join/jebohfuekcs2e3oof4hvon5l/
+    - finnish the R script from r4ds
+    - linear regression (pdf)
+
+2. Day 5:
+
+    - logistic regression
+    - slides with the acquisition talk (Bayesian logistic regression)
