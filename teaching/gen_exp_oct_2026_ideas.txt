@@ -13,3 +13,59 @@ a) Obyvatelé brněnského region jsou z Brna.
 b) Obyvatelé brněnského region bývají z Brna.
 
 c) Obyvatelé brněnského region jsou většinou z Brna.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# The judgments
+
+Kontext: v brněnském regionu, který se skládá z Brna-města (400 000 obyvatel) a Brna-venkova (200 000 obyvatel), žije celkem 600 000 obyvatel. Je tedy možné říct následující větu:
+
+Obyvatelé brněnského region bývají z Brna.
+
+Ano nebo ne?
+
+Případně, která z následujících vět by v tomto kontextu zněla nejlépe?
+
+a) Obyvatelé brněnského region jsou z Brna.
+
+b) Obyvatelé brněnského region bývají z Brna.
+
+c) Obyvatelé brněnského region jsou většinou z Brna.
