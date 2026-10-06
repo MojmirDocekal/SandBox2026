@@ -2,17 +2,18 @@
 
 Kontext: v brněnském regionu, který se skládá z Brna-města (400 000 obyvatel) a Brna-venkova (200 000 obyvatel), žije celkem 600 000 obyvatel. Je tedy možné říct následující větu:
 
-Obyvatelé brněnského region bývají z Brna.
+Obyvatelé brněnského regionu bývají z Brna.
+(ve smyslu z města Brna)
 
 Ano nebo ne?
 
 Případně, která z následujících vět by v tomto kontextu zněla nejlépe?
 
-a) Obyvatelé brněnského region jsou z Brna.
+a) Obyvatelé brněnského regionu jsou z Brna.
 
-b) Obyvatelé brněnského region bývají z Brna.
+b) Obyvatelé brněnského regionu bývají z Brna.
 
-c) Obyvatelé brněnského region jsou většinou z Brna.
+c) Obyvatelé brněnského regionu jsou většinou z Brna.
 
 
 
@@ -62,10 +63,17 @@ Obyvatelé brněnského region bývají z Brna.
 
 Ano nebo ne?
 
+3 ano, 2 ne
+
 Případně, která z následujících vět by v tomto kontextu zněla nejlépe?
 
 a) Obyvatelé brněnského region jsou z Brna.
 
+5 ne
+
 b) Obyvatelé brněnského region bývají z Brna.
 
+
 c) Obyvatelé brněnského region jsou většinou z Brna.
+
+5 ano
