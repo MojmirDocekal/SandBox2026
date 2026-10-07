@@ -63,17 +63,17 @@ Obyvatelé brněnského region bývají z Brna.
 
 Ano nebo ne?
 
-3 ano, 2 ne
+12 ano, 5 ne
 
 Případně, která z následujících vět by v tomto kontextu zněla nejlépe?
 
 a) Obyvatelé brněnského region jsou z Brna.
 
-5 ne
+17 ne
 
 b) Obyvatelé brněnského region bývají z Brna.
 
 
 c) Obyvatelé brněnského region jsou většinou z Brna.
 
-5 ano
+17 ano
