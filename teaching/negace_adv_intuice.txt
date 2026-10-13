@@ -11,6 +11,12 @@ A: Já jsem tomu úplně nerozuměl.
 
  Úplně to nepřebolí nikdy, ale jen to čas otupí,
 
+- pravděpodobně dobrý příklad opačného scopu:
+
+ Co z uvedeného vám přišlo inspirativní a s čím byste naopak úplně nesouhlasili ? 
+
+ - parafráze: Tak s tímhle úplně nesouhlasím.
+
 - CQL [tag="k5eN.*"][]{1,3}[lemma="úplně"] ● 280,666:
 
 Jako	není to úplně	vynikající pila...ale funguje to.
@@ -47,6 +53,7 @@ Po přednášce:
 
 A: Já jsem tomu úplně nerozuměl.
     a. ... tedy něčemu ano, ale rozhodně ne úplně všemu.
+    4/4
     b. ... naprosto ničemu, ani tomu nejjedoduššímu.
 
 (In English
