@@ -4,6 +4,18 @@ A: Já jsem tomu úplně nerozuměl.
     a. ... tedy něčemu ano, ale rozhodně ne úplně všemu.
     b. ... naprosto ničemu, ani tomu nejjedoduššímu.
 
+- CQL [lemma="úplně"] []{1,3} [tag="k5eN.*"] ● 149,732
+
+ Nenechte se shodit dotazy na tělo, je to protože vaši prezentaci úplně přesně nepochopili , nebo jste neměli čas říct všechny detaily. 
+
+- druhý scope:
+
+ Úplně to nepřebolí nikdy, ale jen to čas otupí,
+
+- CQL [tag="k5eN.*"][]{1,3}[lemma="úplně"] ● 280,666:
+
+Jako	není to úplně	vynikající pila...ale funguje to.
+
 (In English
 
 a. I didn’t really understand it.
